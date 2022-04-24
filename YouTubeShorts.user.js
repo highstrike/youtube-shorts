@@ -5,7 +5,7 @@
 // @description  Removes YouTube Shorts from video lists (like the subscription list for example).
 // @icon         https://raw.githubusercontent.com/highstrike/youtube-shorts/master/icon.png
 // @namespace    https://github.com/highstrike/youtube-shorts
-// @version      1.1
+// @version      1.2
 // @author       highstrike
 // @license      GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // @require      https://code.jquery.com/jquery-2.2.4.min.js
